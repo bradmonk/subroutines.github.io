@@ -1,0 +1,14 @@
+/* Basic */
+
+	body, input, select, textarea {
+		font-size: 12pt;
+	}
+
+/* Banner */
+
+	#banner {
+	padding-top: 3em;
+	padding-right: 0;
+	padding-bottom: 3em;
+	padding-left: 0;
+	}
