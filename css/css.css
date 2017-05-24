@@ -170,7 +170,7 @@ h1.page-header {
 .iphone {
 	width: 300px;
 	height: 616px;
-	background-image: url("../pix/homepage/brad_iphone_s0.png");
+	background-image: url("../pix/homepage/brad_iphone_s4.png");
 	background-size: contain; /* background-size: auto, cover; */
 	float: left;
 }
@@ -219,7 +219,7 @@ iphone_cigsperday
 	height: 65px;
 	font-family: 'Comfortaa', 'Arial', 'sans-serif';
 	font-size: 34px;
-	color: #339999;
+	color: #fcb33f;
 	text-align: left;
 }
 
@@ -268,7 +268,7 @@ BUT IS REQUIRED FOR JS HOVER
 	margin-bottom: 15px;
 	font-family: 'Comfortaa', 'Arial', 'sans-serif';
 	font-size: 22px;
-	color: #339999;
+	color: #fcb33f;
 	text-align:left;
 }
 
@@ -430,7 +430,7 @@ Quicksand | Comfortaa | Monoton | Righteous | The Girl Next Door
 			
 
 .fill {
-	background-image: url("../pix/banner/banner_i1.jpg");
+	background-image: url("../pix/banner/splash_i1.jpg");
 	background-size: cover; /* background-size: auto, cover; */
 	background-position: center;
 	/* background-position: 0px 0px; */
